@@ -8,10 +8,10 @@
         </Option>
         <Option value="Knives">
           <Leaf value="Austenitic Stainless Steel 304"/>
-          <Leaf value="Austenitic Stainless Steal 316"/>
+          <Leaf value="Austenitic Stainless Steel 316"/>
         </Option>
         <Option value="Direct contact with drugs">
-          <Leaf value="Austenitic Stainless Steal 316"/>
+          <Leaf value="Austenitic Stainless Steel 316"/>
         </Option>
       </Frame>
     </Option>
@@ -21,11 +21,31 @@
       </Frame>
     </Option>
     
-    <Option value="Is the material used in chemical processing, oil refinery, vessels, pipes, broiler,Optiont exchanger or other harsh environment?"></Option>
-    <Option value="Is the material used in electronics as circuit-boards, wires, or covers etc.?"></Option>
-    <Option value="Is the material used in underwater applications such as valves, pumps, or condensers?"></Option>
-    <Option value="Is material to be used in pipes in a mild environment?"></Option>
-    <Option value="Is material to be used in automobiles?"></Option>
+    <Option value="Is the material used in chemical processing, oil refinery, vessels, pipes, broiler,Optiont exchanger or other harsh environment?">
+      <Frame>
+      </Frame>
+    </Option>
+    
+    <Option value="Is the material used in electronics as circuit-boards, wires, or covers etc.?">
+      <Frame>
+      </Frame>
+    </Option>
+
+    <Option value="Is the material used in underwater applications such as valves, pumps, or condensers?">
+      <Frame>
+      </Frame>
+    </Option>
+
+    <Option value="Is material to be used in pipes in a mild environment?">
+      <Frame>
+      </Frame>
+    </Option>
+
+    <Option value="Is material to be used in automobiles?">
+      <Frame>
+      </Frame>
+    </Option>
+
   </Frame>
 
 
