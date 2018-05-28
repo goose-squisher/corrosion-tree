@@ -1,24 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
+  <Frame>
+    <Option value="Is the material to be used in pharmaceutical or food industry where taste or color contamination is avoided?">
+      <Frame>
+        <Option value="Food Storage or Countertops?">
+          <Leaf value="Aluminum or Al 3xxx alloys"></Leaf>
+        </Option>
+        <Option value="Knives">
+          <Leaf value="Austenitic Stainless Steel 304"></Leaf>
+          <Leaf value="Austenitic Stainless Steal 316"></Leaf>
+        </Option>
+        <Option value="Direct contact with drugs">
+          <Leaf value="Austenitic Stainless Steal 316"></Leaf>
+        </Option>
+      </Frame>
+    </Option>
+
+    <Option value="Is the material used in aerospace as airplane body or turbines?">
+      <Frame>
+      </Frame>
+    </Option>
+    
+    <Option value="Is the material used in chemical processing, oil refinery, vessels, pipes, broiler,Optiont exchanger or other harsh environment?"></Option>
+    <Option value="Is the material used in electronics as circuit-boards, wires, or covers etc.?"></Option>
+    <Option value="Is the material used in underwater applications such as valves, pumps, or condensers?"></Option>
+    <Option value="Is material to be used in pipes in a mild environment?"></Option>
+    <Option value="Is material to be used in automobiles?"></Option>
+  </Frame>
+
+
+  
   <Node value="Low amounts of chlorides, salt, moisture, direct sunlight?"></Node>
   <Node value="Completely hidden away, dry, or insulated?"></Node>
   <Leaf value="Uncoated Carbon Steel"></Leaf>
   <Leaf value="Coated Carbon Steel or Copper"></Leaf>
   <Node value="Mild and continually wet environment exposed to rain and sunlight?"></Node>
   <Leaf value="Low Alloy Steel Cu, Ni, Cr, etc"></Leaf>
-  <Node value="Is the material used in chemical processing, oil refinery, vessels, pipes, broiler, heat exchanger or other harsh environment?"></Node>
-  <Node value="Is the material to be used in pharmaceutical or food industry where taste or color contamination is avoided?"></Node>
-  <Node value="Knives"></Node>
-  <Node value="Direct contact with drugs"></Node>
-  <Node value="Austenitic Stainless Steel"></Node>
-  <Node value="Food Storage or Countertops?"></Node>
   <Leaf value="Copper-Nickel Alloy"></Leaf>
   <Leaf value="Austinetic Stainless Steel"></Leaf>
   <Node value="Is material in contact with highly corrosive and hot environemnt? KOH, NaOH, HF, chloride productions, ammonia converters?"></Node>
   <Leaf value="Nickel- Chromium- Iron"></Leaf>
   <Leaf value="Commercially Pure Nickel Ni-200"></Leaf>
   <Node value="Operating temperatures above 200C?"></Node>
-  <Node value="Is the material used in aerospace as airplane body or turbines?"></Node>
   <Node value="Yes"></Node>
   <Node value="Airplane wing covers, panels, fuselage skins or other body parts?"></Node>
   <Node value="Moving or stationary parts within jet turbines?"></Node>
@@ -31,11 +54,8 @@
   <Node value="Temperatures below 300 C such as the fan or the compressor parts?"></Node>
   <Leaf value="Titanium  Alloys Ti-6Al-4V Ti6-2-4-2 Cobalt Alloys"></Leaf>
   <Node value="High temperature and stress such as turbine blades, combustion chamber, or exhaust?"></Node>
-  <Node value="Is the material used in electronics as circuit-boards, wires, or covers etc.?"></Node>
-  <Node value="Is material to be used in automobiles?"></Node>
   <Node value="Used in the body/frame?"></Node>
   <Leaf value="Carbon Steel"></Leaf>
-  <Node value="Is the material used in underwater applications such as valves, pumps, or condensers?"></Node>
   <Node value="Seawater Condensers"></Node>
   <Leaf value="Arsenical Aluminum Brass"></Leaf>
   <Node value="Valves pumps gears and bushings"></Node>
@@ -64,7 +84,6 @@
   <Node value="High Temperature and Corrosion Resistant"></Node>
   <Leaf value="Molybdenum Tungsten Titanium Tantalum"></Leaf>
   <Leaf value="302, 304, 316 Stainless 600, 625, 718, 750 Nickel"></Leaf>
-  <Node value="Is material to be used in pipes in a mild environment?"></Node>
   <Node value="Low strength covers, skins, panels"></Node>
   <Node value="Text"></Node>
   <Node value="Heating elements such as exhaust valves and glowplugs?"></Node>
